@@ -19,8 +19,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Chromium_Logo.svg" width="40" height="40" alt="Chromium Logo" />
 
 ### I know the following languages quite well:
-<img src="https://www.python.org/static/community_logos/python-logo.png" width="40" height="40" alt="Python Logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40" alt="HTML5 Logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40" alt="CSS3 Logo" />
-<img src="https://www.php.net/images/logos/php-logo.svg" width="40" height="40" alt="PHP Logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Bash_Logo_Colored.svg" width="40" height="40" alt="Batch Script Logo" />
+<img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="40" height="40" alt="Python Logo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40" alt="HTML5 Logo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40" alt="CSS3 Logo" /> <img src="https://www.php.net/images/logos/php-logo.svg" width="40" height="40" alt="PHP Logo" /> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Bash_Logo_Colored.svg" width="40" height="40" alt="Batch Script Logo" />
