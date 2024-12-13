@@ -4,6 +4,7 @@
 - 💬 Ask me about my story
 - 😄 Pronouns: he/him
 
+![Profile Views](https://komarev.com/ghpvc/?username=zparadox1337&label=Profile%20views&color=0085ff&style=flat)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nastyca&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nastyca&layout=compact&theme=radical)
 
