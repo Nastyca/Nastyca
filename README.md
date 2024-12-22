@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Javascript and Batch
+- 🌱 I'm currently learning JavaScript and Pentesting
 - 💬 Ask me about my story
 - 😄 Pronouns: he/him
 
