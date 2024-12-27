@@ -8,6 +8,7 @@
 
 ## 📊 ▸ Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=nastyca&label=Profile%20views&color=0085ff&style=flat) ![GitHub Followers](https://img.shields.io/github/followers/Nastyca?style=social)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nastyca&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nastyca&layout=compact&theme=radical)
 
