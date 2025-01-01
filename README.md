@@ -22,5 +22,6 @@
 - 🔗 [Mon profil Root-Me](https://www.root-me.org/Nastyca)
 - ✅ [Challenges résolus](https://www.root-me.org/Nastyca/challenges)
 
-![Root-Me Stats](https://root-me-diff.vercel.app/rm-gh?nickname=Nastyca&fstats=show)
+![Root-Me Stats](https://root-me-diff.vercel.app/rm-gh?nickname=Nastyca&gstats=show)
+
 ---
