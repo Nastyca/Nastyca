@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nastyca&layout=compact&theme=radical)
 
 ## 🛠️ ▸ Compétences
-- **Langages**: Python, HTML/CSS, PHP, JavaScript
+- **Langages**: Python, HTML/CSS, PHP, Batch
 - **Outils**: Visual Studio Code, BurpSuite Pro, ZAP
 
 ## 💻 ▸ Root Me
