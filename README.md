@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+✦ --- NASTYCA --- ✦
+
 - 🌱 I'm currently learning JavaScript and Batch
 - 💬 Ask me about my story
 - 😄 Pronouns: he/him
@@ -11,8 +13,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nastyca&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nastyca&layout=compact&theme=radical)
-
-✦ --- NASTYCA --- ✦
 
 ## 🛠️ ▸ Compétences
 - **Langages**: Python, HTML/CSS, PHP, JavaScript
